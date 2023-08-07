@@ -1,2 +1,6 @@
 # bd-info-p4
-Repositório da Disciplina de Banco de Dados
+Instituto Federal do Ceará - Campus Fortaleza
+Repositório da disciplina de Banco de Dados
+Informatica P4 - Professor Ricardo Duarte Taveira
+ 
+
